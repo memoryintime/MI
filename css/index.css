@@ -758,6 +758,12 @@
 	float: left;
 	line-height: 18px;
 }
+.di-left a:hover{
+	color: orangered;
+}
+.icp:hover{
+	color: orangered;
+}
 .di-icp{
 	font-size: 12px;
 	color: #b0b0b0;
@@ -768,10 +774,22 @@
 	float: right;
 	padding: 30px 5px;
 }
+.map-logo:hover{
+	cursor: pointer;
+}
 .map-slogan{
 	width: 267px;
 	height: 19px;
 	margin: 0 auto;
 	padding-top: 110px;
 
+}
+.ding{
+	width: 100%;
+	height: 120px;
+}
+.ding img{
+	width: 2560px;	
+	height: 100%;
+	margin-left: -605.5px;
 }
